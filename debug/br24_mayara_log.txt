@@ -1,0 +1,281 @@
+[2025-07-23T16:58:45Z INFO  mayara_server] Mayara 0.2.0 loglevel INFO
+[2025-07-23T16:58:45Z INFO  mayara::config] Loaded config from '/home/davy/.config/mayara/settings.json'
+[2025-07-23T16:58:45Z INFO  mayara_server::web] Starting HTTP web server on port 6502
+[2025-07-23T16:58:45Z INFO  mayara::locator] Searching for radars on interface 'enp0s25' address 169.254.246.152
+[2025-07-23T16:58:47Z INFO  mayara::radar] Found radar: key 'Navico-0924A10745' id 1 name 'BR24 745'
+[2025-07-23T16:58:47Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:58:47Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:58:47Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:58:47Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:58:48Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:58:50Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:58:52Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:58:52Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:58:52Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:58:52Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:58:52Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:58:54Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:58:56Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:58:57Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:58:57Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:58:57Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:58:57Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:58:58Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:00Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:02Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:02Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:02Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:02Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:03Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:05Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:07Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:07Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:07Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:07Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:07Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:09Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:11Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:12Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:12Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:12Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:12Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:13Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:15Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:17Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:17Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:17Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:17Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:17Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:19Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:21Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:22Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:22Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:22Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:22Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:23Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:25Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:27Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:27Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:27Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:27Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:27Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:29Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:31Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:32Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:32Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:32Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:32Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:33Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:35Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:37Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:37Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:37Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:37Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:37Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:39Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:42Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:42Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:42Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:42Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:42Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:44Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:46Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:47Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [01, C1, 01]
+[2025-07-23T16:59:47Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:47Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:47Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:47Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:47Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:48Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:48Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:50Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:52Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:52Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:52Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:52Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:52Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:54Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:56Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:57Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:57Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T16:59:57Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:57Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T16:59:57Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [03, C1, EE, 02, 00, 00]
+[2025-07-23T16:59:58Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T16:59:58Z WARN  mayara::brand::navico::data] Spoke with illegal status (0x82) ignored
+[2025-07-23T16:59:58Z WARN  mayara::brand::navico::data] Invalid spoke: header [18, 82, 94, 0E, 00, 44, 0D, 0E, 95, 02, 34, 92, 0C, 00, 00, 41, FF, 43, 32, 19, 00, 40, 00, C3]
+[2025-07-23T16:59:58Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:00Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:02Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [06, C1, 00, 00, 00, 00, 01, 00, 00, 00, FF]
+[2025-07-23T17:00:02Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:02Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:02Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:02Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:02Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:02Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:04Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:06Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [06, C1, 02, 00, 00, 00, 00, 00, 00, 00, 66]
+[2025-07-23T17:00:06Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:07Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:07Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:07Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:07Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:07Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:08Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [06, C1, 02, 00, 00, 00, 00, 00, 00, 00, C4]
+[2025-07-23T17:00:08Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:09Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:09Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [06, C1, 02, 00, 00, 00, 01, 00, 00, 00, C1]
+[2025-07-23T17:00:09Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:11Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:12Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:12Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:12Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:12Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:13Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:15Z INFO  mayara::brand::navico::data] Received data update: ControlValue(Sender { chan: Tx { inner: Chan { tx: Tx { block_tail: 0x782ff4544670, tail_position: 24 }, semaphore: Semaphore { semaphore: Semaphore { permits: 60 }, bound: 60 }, rx_waker: AtomicWaker, tx_count: 2, rx_fields: "..." } } }, ControlValue { id: TargetTrails, value: "4", auto: None, enabled: None, error: None })
+[2025-07-23T17:00:15Z INFO  mayara::radar::trail] Trails length 0 -> 180000 ms
+[2025-07-23T17:00:15Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:17Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:17Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:17Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:17Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:17Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:19Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:21Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:22Z INFO  mayara::brand::navico::data] Received data update: ControlValue(Sender { chan: Tx { inner: Chan { tx: Tx { block_tail: 0x782ff4544670, tail_position: 24 }, semaphore: Semaphore { semaphore: Semaphore { permits: 60 }, bound: 60 }, rx_waker: AtomicWaker, tx_count: 2, rx_fields: "..." } } }, ControlValue { id: TrailsMotion, value: "1", auto: None, enabled: None, error: None })
+[2025-07-23T17:00:22Z WARN  mayara::settings] User tried to set invalid Target trails motion: Control Target trails motion value 'True' requires true heading input
+[2025-07-23T17:00:22Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:22Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:22Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:22Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:23Z INFO  mayara::brand::navico::data] Received data update: ControlValue(Sender { chan: Tx { inner: Chan { tx: Tx { block_tail: 0x782ff4544670, tail_position: 25 }, semaphore: Semaphore { semaphore: Semaphore { permits: 60 }, bound: 60 }, rx_waker: AtomicWaker, tx_count: 2, rx_fields: "..." } } }, ControlValue { id: TrailsMotion, value: "1", auto: None, enabled: None, error: None })
+[2025-07-23T17:00:23Z WARN  mayara::settings] User tried to set invalid Target trails motion: Control Target trails motion value 'True' requires true heading input
+[2025-07-23T17:00:23Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:26Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:26Z INFO  mayara::brand::navico::data] Received data update: ControlValue(Sender { chan: Tx { inner: Chan { tx: Tx { block_tail: 0x782ff4544670, tail_position: 26 }, semaphore: Semaphore { semaphore: Semaphore { permits: 60 }, bound: 60 }, rx_waker: AtomicWaker, tx_count: 2, rx_fields: "..." } } }, ControlValue { id: ClearTrails, value: "0", auto: None, enabled: None, error: None })
+[2025-07-23T17:00:27Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:27Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:27Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:27Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:28Z INFO  mayara::brand::navico::data] Received data update: ControlValue(Sender { chan: Tx { inner: Chan { tx: Tx { block_tail: 0x782ff4544670, tail_position: 26 }, semaphore: Semaphore { semaphore: Semaphore { permits: 60 }, bound: 60 }, rx_waker: AtomicWaker, tx_count: 2, rx_fields: "..." } } }, ControlValue { id: ClearTargets, value: "0", auto: None, enabled: None, error: None })
+[2025-07-23T17:00:28Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:29Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [21, C1, 02]
+[2025-07-23T17:00:30Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:32Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:32Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:32Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:32Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:32Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:33Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [0A, C1, 00]
+[2025-07-23T17:00:33Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:33Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:33Z WARN  mayara::brand::navico::data] Spoke with illegal status (0x82) ignored
+[2025-07-23T17:00:33Z WARN  mayara::brand::navico::data] Invalid spoke: header [18, 82, E7, 0F, 00, 44, 0D, 0E, 0F, 06, 34, 92, 12, 00, 00, 41, FF, 43, CC, 1C, 00, 40, 00, C3]
+[2025-07-23T17:00:33Z WARN  mayara::brand::navico::data] Spoke with illegal status (0x82) ignored
+[2025-07-23T17:00:33Z WARN  mayara::brand::navico::data] Invalid spoke: header [18, 82, E8, 0F, 00, 44, 0D, 0E, 11, 06, 34, 92, 12, 00, 00, 41, FF, 43, CC, 1C, 00, 40, 00, C3]
+[2025-07-23T17:00:34Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:34Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:36Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:37Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:37Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:37Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:37Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:38Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:39Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [09, C1, 01]
+[2025-07-23T17:00:39Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:40Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:42Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:42Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:42Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:42Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:42Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:44Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:45Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [08, C1, 03]
+[2025-07-23T17:00:45Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:47Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:47Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:47Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:47Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:47Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:49Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:50Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [0E, C1, 03]
+[2025-07-23T17:00:51Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:52Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:52Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:52Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:52Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:53Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:55Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:56Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [0F, C1, 02]
+[2025-07-23T17:00:57Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:57Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:00:57Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:00:57Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:57Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:00:59Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:00Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [06, C1, 05, 00, 00, 00, 00, 00, 00, 00, FF]
+[2025-07-23T17:01:01Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:02Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:02Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:02Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:01:02Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:03Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [06, C1, 05, 00, 00, 00, 01, 00, 00, 00, 00]
+[2025-07-23T17:01:03Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:06Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:07Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:07Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:07Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:01:07Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:08Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:10Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:12Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:12Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:12Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:01:12Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:12Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:14Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:16Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:17Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:17Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:17Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:01:17Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:18Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:20Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:22Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:22Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:22Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:01:22Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:22Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:24Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:27Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:27Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:27Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:27Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:01:27Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:29Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:31Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:32Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:32Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:32Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:01:32Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:33Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:35Z INFO  mayara::brand::navico::command] Navico-0924A10745: Send command [01, C1, 00]
+[2025-07-23T17:01:35Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 2, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:35Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:37Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:37Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:37Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:01:37Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:37Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:39Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:41Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:42Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:42Z ERROR mayara::brand::navico::report] Navico-0924A10745: Navico-0924A10745: Unknown model # 14
+[2025-07-23T17:01:42Z ERROR mayara::brand::navico::report] Navico-0924A10745: Control Target separation not supported on this radar
+[2025-07-23T17:01:42Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:43Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+[2025-07-23T17:01:45Z INFO  mayara::brand::navico::report] Navico-0924A10745: report RadarReport1_18 { _what: 1, _command: 196, status: 1, _u00: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] }
+^C[2025-07-23T17:01:46Z INFO  mayara::brand::navico::report] Navico-0924A10745: shutdown
+[2025-07-23T17:01:46Z INFO  tokio_graceful_shutdown::toplevel] Shutting down ...
+[2025-07-23T17:01:46Z INFO  tokio_graceful_shutdown::toplevel] Shutdown finished.
+
